@@ -1,0 +1,35 @@
+CTI 110
+P1HW1 Questions
+Name: 
+
+1. Write the binary versions of the numbers 0 through 7, in order (one per line)
+0 = 
+1 = 
+2 = 
+3 = 
+4 = 
+5 =
+6 = 
+7 = 
+2. Write the binary versions of the numbers 8 through 15, in order (one per line)
+8 = 
+9 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+
+3. Convert the following decimal numbers to binary:
+
+11 = 
+65 = 
+100 =
+255 = 
+
+4. Convert the following binary numbers to decimal:
+1101 = 
+1000 = 
+101011 = 
+
